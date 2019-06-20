@@ -1,0 +1,95 @@
+* {
+font-family: "Verdana";	
+font-family: "Poppins";	
+list-style: none;
+text-decoration: none;
+text-shadow: 1px 1px black;
+}
+
+.wrapper {
+width: 100%;	
+}
+
+body {
+
+background: #353c48;
+}
+
+
+.coinpotlist {
+background: darkgrey;	
+width: 400px;	
+list-style: none;	
+background: transparent;
+}
+
+.coinpotlist li {
+display: block;
+padding: 4px;
+
+}
+
+.coinpotlist a {
+display: block;
+background: darkgrey;	
+background: #96a2b4;
+background: rgba(55,55,55,0.5);
+height: 50px;	
+
+font-size: 34px;
+
+
+    border-style: solid;
+    border-width: medium;
+	border-color: lightgrey;
+	border-color: rgba(120,130,140,.28);
+	border-width: 2px;
+	    border-radius: 5px;
+
+}
+
+#rightfloat {
+height: 40px;
+width: 40px;
+float: right;	
+padding-right: 5px;
+padding-top: 4px;	
+
+}
+
+.coinlinka {
+float: left;
+padding-left: 4px;
+height: 90%;
+width: 40px;
+}
+
+.coinlinkb {
+height: 40px;
+width: 158px;
+float: left;
+margin-top: 4px;
+padding-left: 65px;
+}
+
+#actor:hover {
+background: lightgrey;
+transition: .25s;
+	
+	
+}
+
+.signature {
+
+height: 30px;
+margin-left: 36px;
+background: transparent;
+margin-bottom: -30px;
+background: traparent;
+
+
+  }
+
+p {
+color: white;	
+}
